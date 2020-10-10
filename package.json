@@ -1,0 +1,24 @@
+{
+  "name": "rpi_sense_hat",
+  "version": "0.0.1",
+  "description": "sense hat info tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rommelandrea/rpi_sense_hat.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "rpi"
+  ],
+  "author": "andrea romanello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rommelandrea/rpi_sense_hat/issues"
+  },
+  "homepage": "https://github.com/rommelandrea/rpi_sense_hat#readme"
+}
